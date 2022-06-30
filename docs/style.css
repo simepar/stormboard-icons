@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?keij4i');
-  src:  url('fonts/icomoon.eot?keij4i#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?keij4i') format('truetype'),
-    url('fonts/icomoon.woff?keij4i') format('woff'),
-    url('fonts/icomoon.svg?keij4i#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?lq5ybl');
+  src:  url('fonts/icomoon.eot?lq5ybl#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?lq5ybl') format('truetype'),
+    url('fonts/icomoon.woff?lq5ybl') format('woff'),
+    url('fonts/icomoon.svg?lq5ybl#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,156 +25,156 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-icon-stormboard-arraw-offset:before {
+.icon-stormboard-arraw-offset:before {
   content: "\e900";
 }
-.icon-icon-stormboard-arrow-left-box:before {
+.icon-stormboard-arrow-left-box:before {
   content: "\e901";
 }
-.icon-icon-stormboard-arrow-open:before {
+.icon-stormboard-arrow-open:before {
   content: "\e902";
   color: #2f4966;
 }
-.icon-icon-stormboard-arrow-right-thin:before {
+.icon-stormboard-arrow-right-thin:before {
   content: "\e903";
 }
-.icon-icon-stormboard-building:before {
+.icon-stormboard-building:before {
   content: "\e904";
 }
-.icon-icon-stormboard-category:before {
+.icon-stormboard-category:before {
   content: "\e905";
 }
-.icon-icon-stormboard-circle-drawing:before {
+.icon-stormboard-circle-drawing:before {
   content: "\e906";
   color: #2f4966;
 }
-.icon-icon-stormboard-cloud-lightning-rain:before {
+.icon-stormboard-cloud-lightning-rain:before {
   content: "\e907";
 }
-.icon-icon-stormboard-cloud-rain-heavy-fill:before {
+.icon-stormboard-cloud-rain-heavy-fill:before {
   content: "\e908";
 }
-.icon-icon-stormboard-curve-drawing:before {
+.icon-stormboard-curve-drawing:before {
   content: "\e909";
   color: #2f4966;
 }
-.icon-icon-stormboard-customer-search .path1:before {
+.icon-stormboard-customer-search .path1:before {
   content: "\e90a";
   color: rgb(224, 169, 14);
 }
-.icon-icon-stormboard-customer-search .path2:before {
+.icon-stormboard-customer-search .path2:before {
   content: "\e90b";
   margin-left: -1.0498046875em;
   color: rgb(47, 73, 102);
 }
-.icon-icon-stormboard-customer-search .path3:before {
+.icon-stormboard-customer-search .path3:before {
   content: "\e90c";
   margin-left: -1.0498046875em;
   color: rgb(224, 169, 14);
 }
-.icon-icon-stormboard-files:before {
+.icon-stormboard-files:before {
   content: "\e90d";
 }
-.icon-icon-stormboard-full-screen:before {
+.icon-stormboard-full-screen:before {
   content: "\e90e";
   color: #2f4966;
 }
-.icon-icon-stormboard-geo:before {
+.icon-stormboard-geo:before {
   content: "\e90f";
 }
-.icon-icon-stormboard-gust:before {
+.icon-stormboard-gust:before {
   content: "\e910";
 }
-.icon-icon-stormboard-hotspots:before {
+.icon-stormboard-hotspots:before {
   content: "\e911";
 }
-.icon-icon-stormboard-house-door:before {
+.icon-stormboard-house-door:before {
   content: "\e912";
 }
-.icon-icon-stormboard-info-circle:before {
+.icon-stormboard-info-circle:before {
   content: "\e913";
 }
-.icon-icon-stormboard-layers:before {
+.icon-stormboard-layers:before {
   content: "\e914";
 }
-.icon-icon-stormboard-lightning:before {
+.icon-stormboard-lightning:before {
   content: "\e915";
 }
-.icon-icon-stormboard-lightning-earth-pulse:before {
+.icon-stormboard-lightning-earth-pulse:before {
   content: "\e916";
   color: #2f4966;
 }
-.icon-icon-stormboard-lightning-fill:before {
+.icon-stormboard-lightning-fill:before {
   content: "\e917";
 }
-.icon-icon-stormboard-lightning-gld:before {
+.icon-stormboard-lightning-gld:before {
   content: "\e918";
   color: #2f4966;
 }
-.icon-icon-stormboard-lightning-rindat:before {
+.icon-stormboard-lightning-rindat:before {
   content: "\e919";
   color: #2f4966;
 }
-.icon-icon-stormboard-pencil:before {
+.icon-stormboard-pencil:before {
   content: "\e91a";
 }
-.icon-icon-stormboard-person:before {
+.icon-stormboard-person:before {
   content: "\e91b";
 }
-.icon-icon-stormboard-polygon-drawing:before {
+.icon-stormboard-polygon-drawing:before {
   content: "\e91c";
   color: #2f4966;
 }
-.icon-icon-stormboard-radar:before {
+.icon-stormboard-radar:before {
   content: "\e91d";
 }
-.icon-icon-stormboard-radar-cascavel:before {
+.icon-stormboard-radar-cascavel:before {
   content: "\e91e";
   color: #2f4966;
 }
-.icon-icon-stormboard-radar-general-mosaic:before {
+.icon-stormboard-radar-general-mosaic:before {
   content: "\e91f";
   color: #2f4966;
 }
-.icon-icon-stormboard-radar-teixeira-soares:before {
+.icon-stormboard-radar-teixeira-soares:before {
   content: "\e920";
   color: #2f4966;
 }
-.icon-icon-stormboard-report:before {
+.icon-stormboard-report:before {
   content: "\e921";
 }
-.icon-icon-stormboard-satellite:before {
+.icon-stormboard-satellite:before {
   content: "\e922";
   color: #2f4966;
 }
-.icon-icon-stormboard-satellite-geocolor:before {
+.icon-stormboard-satellite-geocolor:before {
   content: "\e923";
   color: #2f4966;
 }
-.icon-icon-stormboard-satellite-infra-red:before {
+.icon-stormboard-satellite-infra-red:before {
   content: "\e924";
   color: #2f4966;
 }
-.icon-icon-stormboard-satellite-visible:before {
+.icon-stormboard-satellite-visible:before {
   content: "\e925";
   color: #2f4966;
 }
-.icon-icon-stormboard-square-drawing:before {
+.icon-stormboard-square-drawing:before {
   content: "\e926";
   color: #2f4966;
 }
-.icon-icon-stormboard-station-data:before {
+.icon-stormboard-station-data:before {
   content: "\e927";
   color: #2f4966;
 }
-.icon-icon-stormboard-wind:before {
+.icon-stormboard-wind:before {
   content: "\e928";
 }
-.icon-icon-stormboard-zoom-in:before {
+.icon-stormboard-zoom-in:before {
   content: "\e929";
   color: #2f4966;
 }
-.icon-icon-stormboard-zoom-out:before {
+.icon-stormboard-zoom-out:before {
   content: "\e92a";
   color: #2f4966;
 }
