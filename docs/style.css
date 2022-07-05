@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?gd6m5k');
-  src:  url('fonts/icomoon.eot?gd6m5k#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?gd6m5k') format('truetype'),
-    url('fonts/icomoon.woff?gd6m5k') format('woff'),
-    url('fonts/icomoon.svg?gd6m5k#icomoon') format('svg');
+  font-family: 'stormboard';
+  src:  url('fonts/stormboard.eot?ewxbcw');
+  src:  url('fonts/stormboard.eot?ewxbcw#iefix') format('embedded-opentype'),
+    url('fonts/stormboard.ttf?ewxbcw') format('truetype'),
+    url('fonts/stormboard.woff?ewxbcw') format('woff'),
+    url('fonts/stormboard.svg?ewxbcw#stormboard') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -12,7 +12,7 @@
 
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'icomoon' !important;
+  font-family: 'stormboard' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
