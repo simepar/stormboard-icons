@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'stormboard';
-  src:  url('fonts/stormboard.eot?detkik');
-  src:  url('fonts/stormboard.eot?detkik#iefix') format('embedded-opentype'),
-    url('fonts/stormboard.ttf?detkik') format('truetype'),
-    url('fonts/stormboard.woff?detkik') format('woff'),
-    url('fonts/stormboard.svg?detkik#stormboard') format('svg');
+  src:  url('fonts/stormboard.eot?2jgyr4');
+  src:  url('fonts/stormboard.eot?2jgyr4#iefix') format('embedded-opentype'),
+    url('fonts/stormboard.ttf?2jgyr4') format('truetype'),
+    url('fonts/stormboard.woff?2jgyr4') format('woff'),
+    url('fonts/stormboard.svg?2jgyr4#stormboard') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -31,131 +31,170 @@
 .icon-stormboard-arrow-left-box:before {
   content: "\e901";
 }
-.icon-stormboard-arrow-open:before {
+.icon-stormboard-arrow-left-circle-fill:before {
   content: "\e902";
+}
+.icon-stormboard-arrow-open:before {
+  content: "\e903";
   color: #2f4966;
 }
-.icon-stormboard-arrow-right-thin:before {
-  content: "\e903";
-}
-.icon-stormboard-building:before {
+.icon-stormboard-arrow-repeat:before {
   content: "\e904";
 }
-.icon-stormboard-caret-down-fill:before {
+.icon-stormboard-arrow-right-circle-fill:before {
   content: "\e905";
 }
-.icon-stormboard-category:before {
+.icon-stormboard-arrow-right-thin:before {
   content: "\e906";
 }
-.icon-stormboard-circle-drawing:before {
+.icon-stormboard-bounding-box:before {
   content: "\e907";
-  color: #2f4966;
 }
-.icon-stormboard-cloud-lightning-rain:before {
+.icon-stormboard-building:before {
   content: "\e908";
 }
-.icon-stormboard-cloud-rain-heavy-fill:before {
+.icon-stormboard-calendar-event:before {
   content: "\e909";
 }
-.icon-stormboard-curve-drawing:before {
+.icon-stormboard-caret-down-fill:before {
   content: "\e90a";
+}
+.icon-stormboard-category:before {
+  content: "\e90b";
+}
+.icon-stormboard-circle-drawing:before {
+  content: "\e90c";
+  color: #2f4966;
+}
+.icon-stormboard-clock:before {
+  content: "\e90d";
+}
+.icon-stormboard-cloud-lightning-rain:before {
+  content: "\e90e";
+}
+.icon-stormboard-cloud-rain-heavy-fill:before {
+  content: "\e90f";
+}
+.icon-stormboard-curve-drawing:before {
+  content: "\e910";
   color: #2f4966;
 }
 .icon-stormboard-customer-search:before {
-  content: "\e90b";
-}
-.icon-stormboard-files:before {
-  content: "\e90c";
-}
-.icon-stormboard-fullscreen:before {
-  content: "\e90d";
-}
-.icon-stormboard-geo:before {
-  content: "\e90e";
-}
-.icon-stormboard-gust:before {
-  content: "\e90f";
-}
-.icon-stormboard-hotspots:before {
-  content: "\e910";
-}
-.icon-stormboard-house-door:before {
   content: "\e911";
 }
-.icon-stormboard-info-circle:before {
+.icon-stormboard-delete:before {
   content: "\e912";
 }
-.icon-stormboard-layers:before {
+.icon-stormboard-eye:before {
   content: "\e913";
 }
-.icon-stormboard-lightning:before {
+.icon-stormboard-eye-slash:before {
   content: "\e914";
 }
-.icon-stormboard-lightning-earth-pulse:before {
+.icon-stormboard-files:before {
   content: "\e915";
 }
-.icon-stormboard-lightning-fill:before {
+.icon-stormboard-fullscreen:before {
   content: "\e916";
 }
-.icon-stormboard-lightning-gld:before {
+.icon-stormboard-geo:before {
   content: "\e917";
 }
-.icon-stormboard-lightning-rindat:before {
+.icon-stormboard-gust:before {
   content: "\e918";
 }
-.icon-stormboard-pencil:before {
+.icon-stormboard-hotspots:before {
   content: "\e919";
 }
-.icon-stormboard-person:before {
+.icon-stormboard-house-door:before {
   content: "\e91a";
 }
-.icon-stormboard-polygon-drawing:before {
+.icon-stormboard-info-circle:before {
   content: "\e91b";
-  color: #2f4966;
 }
-.icon-stormboard-radar:before {
+.icon-stormboard-layers:before {
   content: "\e91c";
 }
-.icon-stormboard-radar-cascavel:before {
+.icon-stormboard-lightning:before {
   content: "\e91d";
 }
-.icon-stormboard-radar-general-mosaic:before {
+.icon-stormboard-lightning-earth-pulse:before {
   content: "\e91e";
 }
-.icon-stormboard-radar-teixeira-soares:before {
+.icon-stormboard-lightning-fill:before {
   content: "\e91f";
 }
-.icon-stormboard-report:before {
+.icon-stormboard-lightning-gld:before {
   content: "\e920";
 }
-.icon-stormboard-satellite:before {
+.icon-stormboard-lightning-rindat:before {
   content: "\e921";
-  color: #2f4966;
 }
-.icon-stormboard-satellite-geocolor:before {
+.icon-stormboard-pencil:before {
   content: "\e922";
-  color: #2f4966;
 }
-.icon-stormboard-satellite-infra-red:before {
+.icon-stormboard-pencil-square:before {
   content: "\e923";
 }
-.icon-stormboard-satellite-visible:before {
+.icon-stormboard-person:before {
   content: "\e924";
 }
-.icon-stormboard-square-drawing:before {
+.icon-stormboard-polygon-drawing:before {
   content: "\e925";
   color: #2f4966;
 }
-.icon-stormboard-station-data:before {
+.icon-stormboard-radar:before {
   content: "\e926";
-  color: #2f4966;
 }
-.icon-stormboard-wind:before {
+.icon-stormboard-radar-cascavel:before {
   content: "\e927";
 }
-.icon-stormboard-zoom-in:before {
+.icon-stormboard-radar-general-mosaic:before {
   content: "\e928";
 }
-.icon-stormboard-zoom-out:before {
+.icon-stormboard-radar-teixeira-soares:before {
   content: "\e929";
+}
+.icon-stormboard-report:before {
+  content: "\e92a";
+}
+.icon-stormboard-satellite:before {
+  content: "\e92b";
+  color: #2f4966;
+}
+.icon-stormboard-satellite-geocolor:before {
+  content: "\e92c";
+  color: #2f4966;
+}
+.icon-stormboard-satellite-infra-red:before {
+  content: "\e92d";
+}
+.icon-stormboard-satellite-visible:before {
+  content: "\e92e";
+}
+.icon-stormboard-send:before {
+  content: "\e92f";
+}
+.icon-stormboard-square-drawing:before {
+  content: "\e930";
+  color: #2f4966;
+}
+.icon-stormboard-station-data:before {
+  content: "\e931";
+  color: #2f4966;
+}
+.icon-stormboard-three-dots-vertical:before {
+  content: "\e932";
+}
+.icon-stormboard-trash-solid:before {
+  content: "\e933";
+}
+.icon-stormboard-wind:before {
+  content: "\e934";
+}
+.icon-stormboard-zoom-in:before {
+  content: "\e935";
+}
+.icon-stormboard-zoom-out:before {
+  content: "\e936";
 }
