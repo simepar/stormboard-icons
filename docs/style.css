@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'stormboard';
-  src:  url('fonts/stormboard.eot?7ndhkz');
-  src:  url('fonts/stormboard.eot?7ndhkz#iefix') format('embedded-opentype'),
-    url('fonts/stormboard.ttf?7ndhkz') format('truetype'),
-    url('fonts/stormboard.woff?7ndhkz') format('woff'),
-    url('fonts/stormboard.svg?7ndhkz#stormboard') format('svg');
+  src:  url('fonts/stormboard.eot?b9kp2a');
+  src:  url('fonts/stormboard.eot?b9kp2a#iefix') format('embedded-opentype'),
+    url('fonts/stormboard.ttf?b9kp2a') format('truetype'),
+    url('fonts/stormboard.woff?b9kp2a') format('woff'),
+    url('fonts/stormboard.svg?b9kp2a#stormboard') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -105,280 +105,227 @@
 .icon-stormboard-cloud-rain-heavy-fill:before {
   content: "\e919";
 }
-.icon-stormboard-cold-snap .path1:before {
+.icon-stormboard-cold-snap:before {
   content: "\e91a";
-  color: rgb(0, 0, 0);
-  opacity: 0.5;
-}
-.icon-stormboard-cold-snap .path2:before {
-  content: "\e91b";
-  margin-left: -1.14453125em;
-  color: rgb(0, 0, 0);
-  opacity: 0.5;
-}
-.icon-stormboard-cold-snap .path3:before {
-  content: "\e91c";
-  margin-left: -1.14453125em;
-  color: rgb(0, 0, 0);
-}
-.icon-stormboard-cold-snap .path4:before {
-  content: "\e91d";
-  margin-left: -1.14453125em;
-  color: rgb(0, 0, 0);
-}
-.icon-stormboard-cold-snap .path5:before {
-  content: "\e91e";
-  margin-left: -1.14453125em;
-  color: rgb(0, 0, 0);
-}
-.icon-stormboard-cold-snap .path6:before {
-  content: "\e91f";
-  margin-left: -1.14453125em;
-  color: rgb(0, 0, 0);
-}
-.icon-stormboard-cold-snap .path7:before {
-  content: "\e920";
-  margin-left: -1.14453125em;
-  color: rgb(0, 0, 0);
-}
-.icon-stormboard-cold-snap .path8:before {
-  content: "\e921";
-  margin-left: -1.14453125em;
-  color: rgb(0, 0, 0);
-}
-.icon-stormboard-cold-snap .path9:before {
-  content: "\e922";
-  margin-left: -1.14453125em;
-  color: rgb(0, 0, 0);
-}
-.icon-stormboard-cold-snap .path10:before {
-  content: "\e923";
-  margin-left: -1.14453125em;
-  color: rgb(0, 0, 0);
-}
-.icon-stormboard-cold-snap .path11:before {
-  content: "\e924";
-  margin-left: -1.14453125em;
-  color: rgb(0, 0, 0);
 }
 .icon-stormboard-curve-drawing:before {
-  content: "\e925";
+  content: "\e91b";
   color: #2f4966;
 }
 .icon-stormboard-customer-search:before {
-  content: "\e926";
+  content: "\e91c";
 }
 .icon-stormboard-delete:before {
-  content: "\e927";
+  content: "\e91d";
 }
 .icon-stormboard-drought:before {
-  content: "\e928";
+  content: "\e91e";
 }
 .icon-stormboard-envelope:before {
-  content: "\e929";
+  content: "\e91f";
 }
 .icon-stormboard-exclamation-circle-fill:before {
-  content: "\e92a";
+  content: "\e920";
 }
 .icon-stormboard-eye:before {
-  content: "\e92b";
+  content: "\e921";
 }
 .icon-stormboard-eye-slash:before {
-  content: "\e92c";
+  content: "\e922";
 }
 .icon-stormboard-file-earmark-text:before {
-  content: "\e92d";
+  content: "\e923";
 }
 .icon-stormboard-files:before {
-  content: "\e92e";
+  content: "\e924";
 }
 .icon-stormboard-fire:before {
-  content: "\e92f";
+  content: "\e925";
 }
 .icon-stormboard-fullscreen:before {
-  content: "\e930";
+  content: "\e926";
 }
 .icon-stormboard-geo:before {
-  content: "\e931";
+  content: "\e927";
 }
 .icon-stormboard-gust:before {
-  content: "\e932";
+  content: "\e928";
 }
 .icon-stormboard-hail-rain:before {
-  content: "\e933";
+  content: "\e929";
 }
 .icon-stormboard-heavy-rain:before {
-  content: "\e934";
+  content: "\e92a";
 }
 .icon-stormboard-hot-flashes:before {
-  content: "\e935";
+  content: "\e92b";
 }
 .icon-stormboard-hotspots:before {
-  content: "\e936";
+  content: "\e92c";
 }
 .icon-stormboard-house-door:before {
-  content: "\e937";
+  content: "\e92d";
 }
 .icon-stormboard-info-circle:before {
-  content: "\e938";
+  content: "\e92e";
 }
 .icon-stormboard-intracloud-lightning:before {
-  content: "\e939";
+  content: "\e92f";
 }
 .icon-stormboard-layers:before {
-  content: "\e93a";
+  content: "\e930";
 }
 .icon-stormboard-lightning:before {
-  content: "\e93b";
+  content: "\e931";
 }
 .icon-stormboard-lightning-fill:before {
-  content: "\e93c";
+  content: "\e932";
 }
 .icon-stormboard-map:before {
-  content: "\e93d";
+  content: "\e933";
 }
 .icon-stormboard-padrao-csv:before {
-  content: "\e93e";
+  content: "\e934";
 }
 .icon-stormboard-palette-solid:before {
-  content: "\e93f";
+  content: "\e935";
 }
 .icon-stormboard-paperclip:before {
-  content: "\e940";
+  content: "\e936";
 }
 .icon-stormboard-pause-circle-fill:before {
-  content: "\e941";
+  content: "\e937";
 }
 .icon-stormboard-pencil:before {
-  content: "\e942";
+  content: "\e938";
 }
 .icon-stormboard-pencil-fill:before {
-  content: "\e943";
+  content: "\e939";
 }
 .icon-stormboard-pencil-square:before {
-  content: "\e944";
+  content: "\e93a";
 }
 .icon-stormboard-people:before {
-  content: "\e945";
+  content: "\e93b";
 }
 .icon-stormboard-person:before {
-  content: "\e946";
+  content: "\e93c";
 }
 .icon-stormboard-person-fill:before {
-  content: "\e947";
+  content: "\e93d";
 }
 .icon-stormboard-person-plus-fill:before {
-  content: "\e948";
+  content: "\e93e";
 }
 .icon-stormboard-play-circle-fill:before {
-  content: "\e949";
+  content: "\e93f";
 }
 .icon-stormboard-point:before {
-  content: "\e94a";
+  content: "\e940";
 }
 .icon-stormboard-polygon:before {
-  content: "\e94b";
+  content: "\e941";
 }
 .icon-stormboard-polygon-drawing:before {
-  content: "\e94c";
+  content: "\e942";
   color: #2f4966;
 }
 .icon-stormboard-prec-accum:before {
-  content: "\e94d";
+  content: "\e943";
 }
 .icon-stormboard-prec-wind:before {
-  content: "\e94e";
+  content: "\e944";
 }
 .icon-stormboard-radar:before {
-  content: "\e94f";
+  content: "\e945";
 }
 .icon-stormboard-raindrop:before {
-  content: "\e950";
+  content: "\e946";
 }
 .icon-stormboard-rainless:before {
-  content: "\e951";
+  content: "\e947";
 }
 .icon-stormboard-report:before {
-  content: "\e952";
+  content: "\e948";
 }
 .icon-stormboard-satellite:before {
-  content: "\e953";
+  content: "\e949";
   color: #2f4966;
 }
 .icon-stormboard-screenshot:before {
-  content: "\e954";
+  content: "\e94a";
 }
 .icon-stormboard-search:before {
-  content: "\e955";
+  content: "\e94b";
 }
 .icon-stormboard-send:before {
-  content: "\e956";
+  content: "\e94c";
 }
 .icon-stormboard-snow:before {
-  content: "\e957";
+  content: "\e94d";
 }
 .icon-stormboard-snowflake:before {
-  content: "\e958";
+  content: "\e94e";
 }
 .icon-stormboard-square-drawing:before {
-  content: "\e959";
+  content: "\e94f";
   color: #2f4966;
 }
 .icon-stormboard-station-data:before {
-  content: "\e95a";
+  content: "\e950";
   color: #2f4966;
 }
 .icon-stormboard-stop-circle-fill:before {
-  content: "\e95b";
+  content: "\e951";
 }
 .icon-stormboard-storm:before {
-  content: "\e95c";
+  content: "\e952";
 }
 .icon-stormboard-targets:before {
-  content: "\e95d";
+  content: "\e953";
 }
 .icon-stormboard-thermometer:before {
-  content: "\e95e";
+  content: "\e954";
 }
 .icon-stormboard-three-dots-vertical:before {
-  content: "\e95f";
+  content: "\e955";
 }
 .icon-stormboard-thunderstorm:before {
-  content: "\e960";
+  content: "\e956";
 }
 .icon-stormboard-transmission-line:before {
-  content: "\e961";
+  content: "\e957";
 }
 .icon-stormboard-trash-solid:before {
-  content: "\e962";
+  content: "\e958";
 }
 .icon-stormboard-warning:before {
-  content: "\e963";
+  content: "\e959";
 }
 .icon-stormboard-warning-diamond:before {
-  content: "\e964";
+  content: "\e95a";
 }
 .icon-stormboard-water:before {
-  content: "\e965";
+  content: "\e95b";
 }
 .icon-stormboard-whatsapp:before {
-  content: "\e966";
+  content: "\e95c";
 }
 .icon-stormboard-wind:before {
-  content: "\e967";
+  content: "\e95d";
 }
 .icon-stormboard-windgust:before {
-  content: "\e968";
+  content: "\e95e";
 }
 .icon-stormboard-x-circle-fill:before {
-  content: "\e969";
+  content: "\e95f";
 }
 .icon-stormboard-x-octagon:before {
-  content: "\e96a";
+  content: "\e960";
 }
 .icon-stormboard-zoom-in:before {
-  content: "\e96b";
+  content: "\e961";
 }
 .icon-stormboard-zoom-out:before {
-  content: "\e96c";
+  content: "\e962";
 }
