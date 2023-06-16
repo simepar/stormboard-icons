@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'stormboard';
-  src:  url('fonts/stormboard.eot?ov3ogs');
-  src:  url('fonts/stormboard.eot?ov3ogs#iefix') format('embedded-opentype'),
-    url('fonts/stormboard.ttf?ov3ogs') format('truetype'),
-    url('fonts/stormboard.woff?ov3ogs') format('woff'),
-    url('fonts/stormboard.svg?ov3ogs#stormboard') format('svg');
+  src:  url('fonts/stormboard.eot?hqay5e');
+  src:  url('fonts/stormboard.eot?hqay5e#iefix') format('embedded-opentype'),
+    url('fonts/stormboard.ttf?hqay5e') format('truetype'),
+    url('fonts/stormboard.woff?hqay5e') format('woff'),
+    url('fonts/stormboard.svg?hqay5e#stormboard') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -358,4 +358,10 @@
 }
 .icon-stormboard-uncheckbox:before {
   content: "\e96c";
+}
+.icon-stormboard-radiobox:before {
+  content: "\e96d";
+}
+.icon-stormboard-radiobox-selected:before {
+  content: "\e96e";
 }
